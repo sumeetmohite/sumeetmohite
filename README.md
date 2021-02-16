@@ -9,7 +9,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 
-My portfolio website ➜ [Click to view](https://sumeetmohite.github.io/site "Sumeet Mohite")
+**My portfolio website ➜ [Click to view](https://sumeetmohite.github.io/site "Sumeet Mohite")**
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-sumeetmohite-2166C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeetmohite/)](https://www.linkedin.com/in/sumeetmohite/)
