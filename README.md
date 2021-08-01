@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Sumeet Mohite
-### I am a Frontend Developer 
+### I am a JavaScript Developer 
 **Currently looking for a Junior developer role.**
 
 **Technologies I use:**
