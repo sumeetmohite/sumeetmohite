@@ -9,7 +9,7 @@
 <code><img height="25" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"></code>
 <code><img height="25" src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png"></code>
 
-**My portfolio website ➜ [Click to view](https://sumeetmohite.github.io/site "Sumeet Mohite")**
+**My portfolio website ➜ [Click to view](https://sumeetmohite.in "Sumeet Mohite")**
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-sumeetmohite-2166C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeetmohite/)](https://www.linkedin.com/in/sumeetmohite/)
